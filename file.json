@@ -1,0 +1,72 @@
+[
+    {
+      "img": "https://mgl.gogo.mn/newsn/thumbnail/1000/images/c/2022/04/293387-28042022-1651117383-1244309770-jolooch_utas1.jpg",
+      "title": "Гишүүдийг яллагдагчаар татсан үндэслэлээ танилцуулж байна",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit incidunt",
+      "type": "gov",
+      "date": "04.26.2022"
+    },
+    {
+      "img": "https://mgl.gogo.mn/newsn/thumbnail/600/images/c/2022/04/292500-11042022-1649647350-1937149336-MicrosoftTeams-image_(46).png",
+      "title": "ТӨСВӨӨ ТОДОТГОХГҮЙ БОЛ ҮНИЙН ӨСӨЛТ, ДОЛЛАРЫН ХАНШИЙГ БАРЬЖ ЧАДАХГҮЙ",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit incidunt",
+      "type": "gov",
+      "date": "04.25.2022"
+    },
+    {
+      "img": "https://mgl.gogo.mn/newsn/thumbnail/600/images/c/2022/04/293391-28042022-1651109066-1933515254-apu11.jpg",
+      "title": "33 тэрбумын хохирол учруулсан гэж яллагдагчаар татсан",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit incidunt",
+      "type": "gov",
+      "date": "04.24.2022"
+    },
+    {
+      "img": "https://mgl.gogo.mn/newsn/thumbnail/600/images/c/2019/04/238264-06042019-1554521062-1933713862-suragch_blur1.jpg",
+      "title": "Есөн жилийн өмнөх хэргээр яллагдагчаар татсанд гайхлаа",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "type": "gov",
+      "date": ""
+    },
+    {
+      "img": "https://mgl.gogo.mn/newsn/thumbnail/420/thumbnail/1000/images/c/2019/11/247169-09112019-1573282561-1530108292-Niigmiin_daatgal_tatvar_11.jpg",
+      "title": "Б.Буджаргал Нью-Йоркт болсон гүйлтийн тэмцээнд түрүүлжээ",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "type": "sport",
+      "date": "04.23.2022"
+    },
+    {
+      "img": "https://mgl.gogo.mn/newsn/thumbnail/420/thumbnail/1000/images/c/2021/11/286679-03112021-1635938718-1840198716-283625-29082021-1630201006-1760692940-283442-25082021-1629852863-2065696560-vaccine1.jpeg",
+      "title": "Монголын сагсан бөмбөгийн лигийн тамирчдын цалин хэд вэ?",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "type": "sport",
+      "date": "04.22.2022"
+    },
+    {
+      "img": "https://mgl.gogo.mn/newsn/thumbnail/420/images/c/2022/04/293435-28042022-1651142698-340927356-626a61752756fc061a5d8e80.jpg",
+      "title": "21 жилийн дараах Азийн аварга ба алтан медальгүй Монгол",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "type": "sport",
+      "date": "04.21.2022"
+    },
+    {
+      "img": "https://mgl.gogo.mn/newsn/thumbnail/420/thumbnail/1000/images/c/2021/04/277499-15042021-1618470262-1562505912-268116-28012021-1611805599-2051951413-166141-17072015-1437094559-1465824354-hiliin_boomt1.jpg",
+      "title": "“Вертекс майнинг партнер улсад их хэмжээний хохирол учруулаагүй”",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "type": "social",
+      "date": "04.20.2022"
+    },
+    {
+      "img": "https://mgl.gogo.mn/newsn/thumbnail/420/thumbnail/1000/images/c/2021/05/-21052021-1621579790-9210385--11032020-1583905752-1854183605-deed_shuukh2-192548-19485638591.jpeg",
+      "title": "Үндсэн хуулийн цэцийн дунд суудлын хуралдаан болно",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "type": "social",
+      "date": "04.19.2022"
+    },
+    {
+      "img": "https://mgl.gogo.mn/newsn/thumbnail/420/images/c/2022/04/293428-28042022-1651131587-110845277-hutul.jpg",
+      "title": "Улаанбаатарт 18 градус дулаан байна",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "type": "social",
+      "date": "04.18.2022"
+    }
+  ]
